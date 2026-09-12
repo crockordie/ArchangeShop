@@ -64,7 +64,7 @@ npm install
 npm start
 ```
 
-<h2>Project screenshots:   </h2>
+<h2>Project screenshots: Original Version  </h2>
 
 <h3>Landing page</h3>
 
