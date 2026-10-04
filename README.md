@@ -1,6 +1,46 @@
 <h1>Fashion eCommerce Shop in React.js, TypeScript and JSON server</h1>
 
 <p>Fashion eCommerce template is a custom <b>fashion theme</b> completely designed and created from the ground up. The theme is designed in Figma by following foundational web design practices. <b>The fashion website template</b> was created using React.js best practices and techniques. The fashion website template is mainly a luxury fashion template for women, but it can also be used for men and kids. The fashion website template can also be used for any React eCommerce template or clothing eCommerce website. You can download it for free and test it yourself.</p>
+
+<h2>Project Improvements</h2>
+<p>This version includes several improvements to the storefront and its administration experience:</p>
+<ul>
+  <li><p><b>Stylish landing page:</b> A polished, fashion-focused homepage that gives visitors a strong first impression and highlights featured collections.</p></li>
+  <li><p><b>Top navigation bar icons:</b> Convenient icons make key storefront actions easier to find.</p></li>
+  <li><p><b>Top-left menu button:</b> A dedicated menu button provides quick access to site navigation.</p></li>
+  <li><p><b>Current-page navigation indicator:</b> The upper navigation updates to show which page the visitor is currently viewing.</p></li>
+  <li><p><b>Admin dashboard:</b> An administration area provides a central place to manage the shop.</p></li>
+  <li><p><b>User management page:</b> Admins can review and manage user accounts.</p></li>
+  <li><p><b>Product management page:</b> Admins can manage the products available in the store.</p></li>
+</ul>
+
+<h2>Updated Project Screenshots</h2>
+<p>These screenshots show the changes made to the storefront and admin area, including the navigation, landing page, product tools, and user management.</p>
+
+<h3>Storefront</h3>
+
+![Updated landing page with top navigation icons](Fashion_Photo/Screenshot%20%2866%29.png)
+
+![Navigation menu opened from the top-left menu button](Fashion_Photo/Screenshot%20%2867%29.png)
+
+![Shop page with the active-page navigation indicator](Fashion_Photo/Screenshot%20%2868%29.png)
+
+![Search page with product search and navigation](Fashion_Photo/Screenshot%20%2869%29.png)
+
+![Shopping cart page](Fashion_Photo/Screenshot%20%2870%29.png)
+
+<h3>Admin area</h3>
+
+![Admin dashboard](Fashion_Photo/Screenshot%20%2871%29.png)
+
+![Product management page](Fashion_Photo/Screenshot%20%2872%29.png)
+
+![Add product form](Fashion_Photo/Screenshot%20%2873%29.png)
+
+![Product settings and filtering](Fashion_Photo/Screenshot%20%2874%29.png)
+
+![User management page](Fashion_Photo/Screenshot%20%2875%29.png)
+
 <p>The following technologies were used in design and development:</p>
 <ul>
   <li><p>Figma - The leading collaborative design tool for building meaningful products.</p></li>
